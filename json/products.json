@@ -1,0 +1,71 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Марбелья",
+			"text": "Обеденный стол из коллекции Bernhardt Exteriors",
+			"labels": "",
+			"image": "05.jpg",
+			"price": "270 000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Деревенская",
+			"text": "Прикроватная тумбочка.Классический стиль",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "75 000",
+			"priceOld": "150 000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Светящийся металл",
+			"text": "Великолепное кресло коллекции Cosvay",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "07.jpg",
+			"price": "150 000",
+			"priceOld": "300 000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Буфет Очарование",
+			"text": "Классический стиль с намеком на гламур",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "08.jpg",
+			"price": "170 000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
