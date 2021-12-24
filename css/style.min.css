@@ -3259,9 +3259,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   font-weight: 600;
   transition: color 0.3s ease 0s;
 }
-.actions-product__link:not(:last-child) {
-  margin-bottom: 15px;
-}
 .actions-product__link::before {
   margin-right: 10px;
   font-size: 16px;
@@ -3272,6 +3269,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   }
   .actions-product__link:hover {
     color: #c36b33;
+  }
+}
+@media (min-width: 1282px) {
+  .actions-product__link:not(:last-child) {
+    margin-bottom: 15px;
   }
 }
 
